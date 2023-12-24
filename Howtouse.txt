@@ -1,0 +1,7 @@
+1-CPanelCheckeri desktopa kaydedin
+2-CPanel listenizi desktopa ekleyin
+3-cd Desktop
+4-Python CPanelchecker.py
+5-cpanellistesi.txt
+6-threadsa 30-40 yazin
+7-hit cpanelleri good isminde desktopa kaydeder
